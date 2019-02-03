@@ -1,0 +1,35 @@
+body{
+  font:1em Trebuchet MS;
+  display: inline-block;
+  margin-left:20%;
+}
+
+h2{
+  padding:20px 20px 1px 20px;
+  color:#3F8EDD;
+  }
+
+p{
+  padding:5px 5px 5px 30px;
+}
+
+span{
+  color:#3F8EDD;
+}
+
+#left_section {
+	width:600px;
+	background:white;
+	float:left;
+	padding:20px 10px 10em 0px;
+}
+
+#right_section {
+	width:300px;
+	background:#ECEEF1;
+	float:right;
+	padding:20px 10px 170px 0px;
+}
+#wrap{
+width: 57.5em;
+}
